@@ -9,6 +9,11 @@ I chose to build this project while learning how to manage IT projects using Agi
 
 
 
+Main Pizza Builder Form
+
 ![Pizza 1](https://github.com/ThomasGraft/Pizza-Builder/blob/master/CSC420Project1/Images/Pizza1.png?raw=true)
 
 
+Order Confirmation Form
+
+![Pizza 2](https://github.com/ThomasGraft/Pizza-Builder/blob/master/CSC420Project1/Images/Pizza2.png?raw=true)
