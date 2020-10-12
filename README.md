@@ -7,4 +7,8 @@ A simple WebForms app with multiple forms and several different types of control
 I chose to build this project while learning how to manage IT projects using Agile methodologies such as Scrum and Kanban. 
 
 
-![Alt text](relative/path/to/Pizza1.png?raw=true "Main Pizza Form")
+
+
+![Pizza 1](https://github.com/ThomasGraft/Pizza-Builder/blob/master/CSC420Project1/Images/Pizza1.png?raw=true)
+
+
